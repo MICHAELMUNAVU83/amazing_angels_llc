@@ -41,17 +41,17 @@ const Nav = () => {
             >
               <ul className="pt-4 text-base text-gray-700 md:flex md:justify-between md:pt-0 items-center">
                 <li>
-                  <a className="px-3 py-2 block " href="/">
+                  <a className="px-3 py-2 block hover:text-[#f0a202] transition-all ease-in-out duration-500 " href="#home">
                     Home
                   </a>
                 </li>
                 <li>
-                  <a className="px-3 py-2 block " href="#about">
+                  <a className="px-3 py-2 block hover:text-[#f0a202] transition-all ease-in-out duration-500  " href="#about">
                     About Us
                   </a>
                 </li>
                 <li>
-                  <a className="px-3 py-2 block " href="#contact">
+                  <a className="px-3 py-2 block hover:text-[#f0a202] transition-all ease-in-out duration-500" href="#contact">
                     Contact us
                   </a>
                 </li>

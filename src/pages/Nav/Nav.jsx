@@ -8,7 +8,7 @@ const Nav = () => {
   };
 
   return (
-    <main className="sticky top-0 backdrop-blur">
+    <main className="sticky z-50 top-0 backdrop-blur">
       <div className="text-black">
         <div className="container mx-auto p-4">
           <nav className="flex flex-wrap items-center justify-between lg:mx-40  py-4 md:py-0 px-4 text-lg text-gray-700">
